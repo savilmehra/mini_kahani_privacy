@@ -62,16 +62,6 @@ VIDEO_H = 720
 # ─────────────────────────────────────────────────────────────
 # CONFIG
 # ─────────────────────────────────────────────────────────────
-LUMA_API_KEY        = ""
-HF_TOKEN            = ""
-GEMINI_API_KEY      = ""
-KIE_API_KEY         = ""
-IMGBB_API_KEY       = ""
-YOUTUBE_CLIENT_FILE = "client_secrets.json"
-TARGET_CHANNEL_ID   = ""
-OPENAI_API_KEY      = ""
-WATERMARK_TEXT      = "Savil"
-TOKEN_FILE          = "youtube_token.pickle"
 
 AUDIO_BASE_DIR      = r"C:\Users\savka\Documents\yOUTUBE AGENT\audio"
 
