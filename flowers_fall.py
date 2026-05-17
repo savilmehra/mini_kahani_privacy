@@ -62,14 +62,14 @@ VIDEO_H = 720
 # ─────────────────────────────────────────────────────────────
 # CONFIG
 # ─────────────────────────────────────────────────────────────
-LUMA_API_KEY        = "luma-cd81b6b8-4581-48d7-b8d2-e832d1691d42-a93a3ad0-40e3-4c8c-8e77-231b5243cb83"
-HF_TOKEN            = "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"
-GEMINI_API_KEY      = "AIzaSyCQ1DNri1cbHQ3c3-AWkOWA-73stOMOqr4"
-KIE_API_KEY         = "80b2f84b993e9ff64f6e93264b7bf523"
-IMGBB_API_KEY       = "1b59c711e9cd79b0f3dd36758df73315"
+LUMA_API_KEY        = ""
+HF_TOKEN            = ""
+GEMINI_API_KEY      = ""
+KIE_API_KEY         = ""
+IMGBB_API_KEY       = ""
 YOUTUBE_CLIENT_FILE = "client_secrets.json"
-TARGET_CHANNEL_ID   = "UCAhcdHW5YFysH4IFeLEDsJw"
-OPENAI_API_KEY      = "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"
+TARGET_CHANNEL_ID   = ""
+OPENAI_API_KEY      = ""
 WATERMARK_TEXT      = "Savil"
 TOKEN_FILE          = "youtube_token.pickle"
 
